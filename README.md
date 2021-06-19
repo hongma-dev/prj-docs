@@ -16,10 +16,20 @@ Nodejs, Vuejs, ES6, MongoDB
 
 
 ------------------------------------------------------
+[종료]
 
 프로젝트 : SPRING-WEB-PRJ
 
 코드로 배우는 스프링 웹 프로젝트 책을 기반으로 스프링 프레임워크 공부 프로젝트
 
-SpringFramework, Oracle
+SpringFramework, Oracle, AOP, spring security
+
+------------------------------------------------------
+[진행]
+
+프로젝트 : SPRING-WEB-PRJ
+
+[인프런] Spring Boot를 이용한 RESTful Web Services 개발 강의를 바탕으로 공부 프로젝트
+
+SpringFramework, JPA
 
