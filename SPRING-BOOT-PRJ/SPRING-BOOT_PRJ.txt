@@ -1,6 +1,6 @@
 프로젝트 : SPRING-BOOT-PRJ
 
-기간 : 2021.06.19 ~ 
+기간 : 2021.06.19 ~ 2021.06.28
 
 기술 : SpringFramework, SpringBoot
 
@@ -14,3 +14,8 @@ redsoft 인프런 강의중 공부하고 싶었던 'Spring Boot를 이용한 RES
 
 간단한 spring boot 학습 후 JPA 학습 예정
 
+[2021.06.28 학습 종료]
+가볍게 spring boot에 다가가기 좋은 강의 였음.
+이런 저런 어노테이션을 보면서 사용하고 좋은 경험이였음.
+
+학습 후 간단한 프로젝트 진행 예정
