@@ -18,7 +18,7 @@ Nodejs, Vuejs, ES6, MongoDB
 ------------------------------------------------------
 [진행]
 
-프로젝트 : 
+프로젝트 : FishInfo
 
 Spring Boot 강의 들은 내용을 바탕으로 간단한 RESTFull API 서버 개발
 
