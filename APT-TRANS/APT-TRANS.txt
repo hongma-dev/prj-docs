@@ -9,6 +9,9 @@
 
 2.response xml 적용
 
+3.swagger 적용
+4.actuator 적용
+
 
 'Spring Boot를 이용한 RESTful Web Services 개발' 강의를 다 듣고 개인적으로 
 REST API 서버 제작 프로젝트 시작
