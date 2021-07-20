@@ -16,7 +16,7 @@ Vuejs 온라인 교육을 받고 공부했던 소스를 이용하여 식당 메�
 Nodejs, Vuejs, ES6, MongoDB
 
 ------------------------------------------------------
-[진행]
+[종료]
 
 프로젝트 : FishInfo
 
@@ -26,7 +26,7 @@ Spring Boot 강의 들은 내용을 바탕으로 간단한 RESTFull API 서버 �
 
 --프로젝트 개발 완료 후 docker, Nginx를 적용하는걸 2차 프로젝트로 진행해도 재밌을듯?
 
-Spring Boot, Oracle, JPA, RESTFull API, JSON, XML
+Spring Boot, Oracle, JPA, RESTFull API, JSON, XML, 
 
 ------------------------------------------------------
 [종료]
