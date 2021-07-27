@@ -35,7 +35,7 @@ Nodejs, Vuejs, ES6, MongoDB
 
 [진행]
 
-프로젝트 :
+프로젝트 : SPRING-BOOT-MC
 
 인프런 강의중 스프링 부트 개념과 활용 수업 공부하면 시작하는 프로젝트
 
