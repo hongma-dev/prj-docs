@@ -1,0 +1,12 @@
+프로젝트 : ycsd-api
+
+기간 : 2021.09.26 ~ 2021.10.31
+
+기술 : Spring Boot, JPA, RESTFul API, Docker, Java, Mysql
+ 
+식당, 메뉴 소개 백엔드 서버 개발
+
+인프런에서 학습한 Spring Boot, JPA 를 가지고 RESTFul API 서버 개발 목표
+
+향후에 프론트 개발도 하여 AWS 서버에 오픈이 목표
+
